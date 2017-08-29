@@ -1,5 +1,6 @@
 {
   "name": "bind.js",
+  "version": "1.1.1",
   "description": "Simple data binding for callbacks & HTML (also node.js compatible).",
   "main": "lib/bind.js",
   "directories": {
